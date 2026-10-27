@@ -1,9 +1,26 @@
-## Hi! I'm Timoshko.
-
+### Hi, I'm Timoshko 👋
 ```html
-<p>My first project is Tree-Simulator<p>
+<h1>Full-Stack Developer<h1>
 ```
-
 ```python
-print("I'm working in TBS Studio")
+print('Python / Flask / SQLAlchemy / HTML / CSS / JavaScript')
 ```
+I build web applications and developer tools. Currently focused on backend development.
+
+---
+
+### 🛠 Tech Stack
+- **Backend:** Python, Flask, SQLAlchemy, Flask-Migrate
+- **Frontend:** HTML, CSS, JavaScript (Fetch API)
+
+
+---
+
+### 📌 Featured Projects
+- **[tlogs](https://github.com/Timothy3000/tlogs)** — Python library with logging utilities and helper functions.
+- **[Tree-Simulator](https://github.com/Timothy3000/Tree-simulator)** — Interactive tree simulation (HTML/JS).
+
+---
+
+### 📫 Contact
+- GitHub: [@Timothy3000](https://github.com/Timothy3000)
