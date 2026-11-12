@@ -34,3 +34,4 @@ I build web applications, Telegram bots, and developer tools. Currently focused 
 
 ### 📫 Contact
 - GitHub: [@Timothy3000](https://github.com/Timothy3000)
+- Telegram: [@Chmyr_mushroom](https://t.me/Chmyr_mushroom)
