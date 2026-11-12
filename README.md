@@ -34,8 +34,3 @@ I build web applications, Telegram bots, and developer tools. Currently focused 
 
 ### 📫 Contact
 - GitHub: [@Timothy3000](https://github.com/Timothy3000)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timothy3000&show_icons=true&theme=radical" alt="Timothy3000's GitHub stats" />
-</p>
